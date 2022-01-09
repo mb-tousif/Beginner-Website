@@ -1,0 +1,28 @@
+*{
+  margin: 0 auto;
+  padding: 25px;
+  text-align: center;
+}
+
+h1{
+  font-weight: 700;
+  color: burlywood;
+}
+.capt{
+  color: darkslategray;
+  font-size: 18px;
+  font-weight: 600;
+}
+table,th,td{
+  border: 3px solid lawngreen;
+  border-collapse: collapse;
+}
+
+table{
+  background-color: ivory;
+}
+.capt{
+  background-color: #009898;
+  border-radius: 10px 10px 0  0;
+  font-size: 1.3rem;
+}
