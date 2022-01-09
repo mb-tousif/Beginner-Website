@@ -19,7 +19,8 @@ table,th,td{
 }
 
 table{
-  background-color: ivory;
+  background-color: #f3f3f3;
+  box-shadow: 5px, 5px, 15px, 10px;
 }
 .capt{
   background-color: #009898;
